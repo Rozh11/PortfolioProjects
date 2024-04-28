@@ -1,3 +1,5 @@
+-- Covid data from 2020 - 2024 to explore and organise for later visualization in TableAU
+
 USE PortfolioProject;
 
 SELECT * 
